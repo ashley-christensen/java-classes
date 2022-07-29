@@ -1,3 +1,0 @@
- class Company {
-    FactoryWorker worker;
-}
